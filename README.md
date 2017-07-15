@@ -1,4 +1,6 @@
 CatsWSGIMidleware
+[![Build 
+Status](https://travis-ci.org/angelbarrera92/CatsWSGIMiddleware.svg?branch=master)](https://travis-ci.org/angelbarrera92/CatsWSGIMiddleware)
 ===============================
 
 version number: 0.1.0
